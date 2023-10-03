@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet;
+    font-family: unset;
+}
+
+
+#box{
+    background-color: rgb(147, 226, 43);
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    border: 2px solid blue;
+    margin: 30px;
+    
+}
+.box__text{
+    padding: 100px;
+}
+#circle{
+    background-color: rgb(147, 226, 43);
+    font-family: unset;
+    width: 100px;
+    height: 100px;
+    border: 2px solid blue;
+    margin: 30px;
+    border-radius: 175px;
+}
+.circle__text{
+    padding: 100px;
+}
